@@ -91,10 +91,6 @@
         display: none;
     }
 
-    .vertical {
-        display: none;
-    }
-
     footer {
         height: 60px;
         padding-top: 20px;
@@ -289,7 +285,7 @@
 
     .logo {
         display: inline-block;
-        width: 7%;
+        width: 8%;
     }
 
     .top_logo {
@@ -302,11 +298,11 @@
     }
 
     .menu {
-        width: 91%;
+        width: 90%;
     }
 
     .menu li {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .index_container {
@@ -384,6 +380,10 @@
         font-size: 20px;
         padding: 115px 20px;
         letter-spacing: 5px;
+    }
+
+    .horizontal {
+        display: none;
     }
 
     footer {
