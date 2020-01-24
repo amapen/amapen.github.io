@@ -1,0 +1,213 @@
+header {
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+}
+
+.logo a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu {
+    display: inline-block;
+    text-align: right;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.menu li a {
+    color: black;
+    text-decoration: none;
+}
+
+.insta {
+    width: 60px;
+    height: 60px;
+    margin: 0 20px;
+}
+
+.twitter {
+    width: 60px;
+    height: 60px;
+    margin: 0 20px;
+}
+
+.index_container {
+    background-image: url("../images/index.jpg");
+}
+
+.top_container {
+    background-image: url("../images/about.jpg");
+    background-size: cover;
+}
+
+.blogs_container {
+    height: 555px;
+}
+
+.contact_container {
+    background-image: url("../images/contact.jpg");
+    background-size: cover;
+    height: 555px;
+}
+
+.index_top {
+    padding: 10% 5%;
+}
+
+.blogs_top {
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+}
+
+.contact_title {
+    padding-top: 50px;
+    height: 150px;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+}
+
+.contact_discription {
+    font-size: 25px;
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    text-align: center;
+}
+
+.name {
+    padding: 30px 0;
+    height: 250px;
+    text-align: center;
+}
+
+#english {
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+}
+
+#japanese {
+    padding-top: 10%;
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    font-weight: bold;
+}
+
+.circle {
+    display: block;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    opacity: 0.4;
+}
+
+.circle:hover {
+    opacity: 1.0;
+    transition: 0.7s;
+}
+
+.baseball_btn {
+    background-color: royalblue;
+}
+
+.piano_btn {
+    background-color: crimson;
+}
+
+.study_btn {
+    background-color: green;
+}
+
+.english {
+    font-size: 80px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.contents {
+    display: inline-block;
+    vertical-align: top;
+    background-size: cover;
+}
+
+.discription {
+    text-align: center;
+    background-color:rgba(255,255,255,0.5);
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+.your_information {
+    margin-top: 30px;
+}
+
+.your_information label {
+    font-size: 20px;
+    font-family: 'Londrina Shadow', cursive;
+}
+
+.your_information input {
+    border-radius: 5px;
+    height: 30px;
+    width: 80%;
+    font-size: 100%;
+    vertical-align: center;
+}
+
+.your_information textarea {
+    border-radius: 5px;
+    height: 80px;
+    width: 100%;
+}
+
+.contact_send {
+    text-align: center;
+}
+
+.send_btn {
+    font-family   : 'Londrina Shadow', cursive;
+    display       : inline-block;
+    border-radius : 5%;
+    font-size     : 18pt;
+    text-align    : center;
+    padding       : 0 20px;
+    background    : #000066;
+    color         : #ffffff;
+    border        : 2px solid #000066;
+  }
+  .send_btn:hover {
+    box-shadow    : none;
+    color         : #000066;
+    background    : #ffffff;
+  }
+
+.baseball_pic {
+    background-image: url("../images/baseball.jpeg");
+}
+
+.piano_pic {
+    background-image: url("../images/piano.jpg");
+}
+
+.study_pic {
+    background-image: url("../images/study.jpg");
+}
+
+footer {
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+}
+
+.foot {
+    font-size: 30px;
+    font-family: 'Londrina Shadow', cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+.foot a {
+    text-decoration: none;
+    color: black;
+}
